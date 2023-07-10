@@ -1,6 +1,6 @@
 # DPI_DATA
 ## SDK数据抓取-dpi数据抓取 【认准TG @dataer】
-[联系Telegram](https://t.me/dataio91)
+[联系Telegram](https://t.me/dataer)
 <br/>
 
 > 运营商数据-精准客源-指定app数据抓取
